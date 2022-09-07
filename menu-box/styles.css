@@ -1,0 +1,26 @@
+.small{
+    width: 200px;
+    height: 40px;
+    background-color: gray;
+    justify-content: center;
+}
+.big{
+    width: 200px;
+    height: 40px;
+    background-color: lightgray;
+    justify-content: center;
+}
+
+div, body,p {
+    display: flex;
+
+}
+p{
+    position: relative;
+    bottom: 5px;
+    color: gray;
+}
+
+.white{
+    color: white;
+}
